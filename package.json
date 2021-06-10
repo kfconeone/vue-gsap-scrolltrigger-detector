@@ -1,0 +1,11 @@
+{
+  "name": "vue-gsap-scrolltrigger-detector",
+  "version": "1.0.0",
+  "description": "detect gsap scrolltrigger",
+  "main": "index.js",
+  "author": "Dashing",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.6.1"
+  }
+}
